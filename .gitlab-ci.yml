@@ -17,9 +17,9 @@ update:
   only:
   - triggers
   script:
-  - git config user.name "[Your name]"
-  - git config user.email "[Your email]"
-  - git remote set-url origin git@gitlab.com:[Your gitlab username]/crates.io-index.git
+  - git config user.name "senortighto"
+  - git config user.email "senortighto@gmail.com"
+  - git remote set-url origin git@gitlab.com:senortighto/ryan-crates-io-index.git
   - git checkout master
   - git reset --hard origin/master
   - git remote add upstream https://github.com/rust-lang/crates.io-index.git
