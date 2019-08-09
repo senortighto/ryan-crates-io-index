@@ -1,4 +1,4 @@
 {
-  "dl": "https://ryan-crates-io-index1.herokuapp.com/api/v1/crates",
-  "api": "https://ryan-crates-io-index1.herokuapp.com/"
+  "dl": "https://rr-crates-io.herokuapp.com/api/v1/crates",
+  "api": "https://rr-crates-io.herokuapp.com/"
 }
