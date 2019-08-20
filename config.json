@@ -4,6 +4,7 @@
   "allowed-registries": [
     "https://github.com/rust-lang/crates.io-index",
     "https://github.com/senortighto/ryan-crates-io-index/crates.io-index",
+    "https://rr-crates-io.herokuapp.com/crates.io-index",
     "https://localhost:8080/index"
   ]
 }
